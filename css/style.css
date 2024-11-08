@@ -649,6 +649,26 @@ footer{
     margin-bottom: 16px;
 }
 
+.modal-field{
+    margin-bottom: 8px;
+    position: relative;
+}
+
+.modal-label{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 117%;
+    letter-spacing: 0.04em;
+    color: #8E8F99;
+    display: block;
+    margin-bottom: 4px;
+}
+
+
+.test{
+    position: relative;
+}
+
 .modal-input{
     background-color: 1px #2E2F42;
     border-radius: 4px;
@@ -684,20 +704,6 @@ footer{
     fill: #4D5AE5;
 }
 
-.modal-label{
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 117%;
-    letter-spacing: 0.04em;
-    color: #8E8F99;
-    display: block;
-    margin-bottom: 4px;
-}
-
-.modal-field{
-    margin-bottom: 8px;
-    position: relative;
-}
 
 .modal-textarea{
     width: 100%;

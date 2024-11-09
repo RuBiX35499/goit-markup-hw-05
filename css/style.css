@@ -744,7 +744,7 @@ footer{
     color: #8E8F99;
 }
 
-.modal-check-accent{
+.modal-check-link{
     line-height: 133%;
     text-decoration: underline;
     text-decoration-skip-ink: none;
@@ -766,6 +766,8 @@ footer{
 
 .modal-check:checked + .modal-checkbox-icon{
     background-color: #404bbf;
+    border: none;
+    fill:#F4F4FD;
 }
 
 .send{

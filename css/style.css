@@ -704,6 +704,13 @@ footer{
     fill: #4D5AE5;
 }
 
+.modal-field-checkbox{
+    margin-bottom: 24px;
+}
+
+.modal-field-comment{
+    margin-bottom: 16px;
+}
 
 .modal-textarea{
     width: 100%;
@@ -719,10 +726,6 @@ footer{
     background-color: transparent;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.modal-textarea{
-    border-color: #4D5AE5;
 }
 
 .modal-check-text{
